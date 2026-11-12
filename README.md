@@ -12,8 +12,6 @@ This project presents a structured qualitative and quantitative comparison of th
 │   └── [Final research paper]
 ├── Presentation/
 │   └── [Project presentation]
-├── Test_Scripts/
-│   └── [Qualitative, quantitative, load-test, and protocol-analysis scripts]
 ├── Evaluation Matrix used
 └── README.md
 ```
