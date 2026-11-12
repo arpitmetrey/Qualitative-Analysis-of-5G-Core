@@ -24,6 +24,6 @@ The authors jointly defined evaluation dimensions, integrated UERANSIM, conducte
 |---|---|---|
 | Arpit Metrey | Installations & operationalizing - open5GS |8|
 | Mohit Kumar  |  Installations & operationalizing - free5GC|9|
-| Rakesh Kumar | Installations & operationalizing - OAI 5GC |10|
+| Rakesh Kumar | Installations & operationalizing - OAI 5GC | 10 |
 
 
